@@ -32,7 +32,7 @@ int main()
        	   	  cin >> array[i];
        	   }
 
-           
+           //bubble sort logic
            for (i = 0; i < ( n - 1 ); i++) // for passes
            {
            	  for (j = 0; j < (n - i - 1); j++) // for comparisons
