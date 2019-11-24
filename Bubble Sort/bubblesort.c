@@ -1,4 +1,4 @@
-// bubble sort for sorting numbers
+// bubble sort for sorting numbers without a user-defined function
 
 #include <stdio.h>
 #include <stdlib.h>
