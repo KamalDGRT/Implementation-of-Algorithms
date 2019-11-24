@@ -14,7 +14,6 @@ int main()
 {
 	//Variables that will be used
 	int n, i, j, t, *array;
-	char choice;
 
        printf( "\t\t\t\t Bubble Sort \n");
        
