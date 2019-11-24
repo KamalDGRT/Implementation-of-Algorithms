@@ -7,10 +7,8 @@ int main()
 {
 	//Variables that will be used
 	int n, i, j, t, *array;
-	char choice;
 
        printf( "\t\t\t\t Bubble Sort \n");
-       
        printf( "\n How many values do you want to sort ? ");
        scanf("%d",&n);
 
